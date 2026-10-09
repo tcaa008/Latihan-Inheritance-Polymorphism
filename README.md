@@ -16,6 +16,6 @@ Repositori ini mengandungp enyelesaian untuk Latihan 1, 2, dan 3 mengenai konsep
    - **Method Overriding**: Method `printInfo()` di-override pada kelas `BujurSangkar`, `Lingkaran`, dan `Silinder` untuk memberikan output khusus mengikut jenis bentuk.
    - **Dynamic Method Dispatch**: Objek `BujurSangkar`, `Lingkaran`, dan `Silinder` boleh disimpan ke dalam tatasusunan berjenis `Bentuk[]` dan dipanggil fungsi `printInfo()` secara dinamik.
 
-## Hasil Tangkapan Skrin (Screenshot)
+## Output Program
 
 ![Screenshot Hasil Run](screenshot.png.png)
